@@ -21,9 +21,6 @@ Certifique-se de ter instalado:
 - **Java 21** (ou versão compatível)
 - **RabbitMQ** rodando localmente ou em um container Docker
 
-### 2️⃣ **Executar com Docker Compose**
-Para subir os serviços (RabbitMQ, Banco de Dados MongoDB e aplicação), execute:
+### 2️⃣ **Projeto ainda esta em andamento**
 
-```sh
-docker-compose up -d
 
